@@ -7,7 +7,7 @@
 - thank you to our amazing corporate sponsor, [7shifts](https://7shifts.com), and to Luke Galea, Chief Technology Officer
 
 ##
-Meetup.com listing: [https://www.meetup.com/gta-php-user-group-toronto/events/296531813/](https://www.meetup.com/gta-php-user-group-toronto/events/296531813/)
+Meetup.com listing: [https://www.meetup.com/gta-php-user-group-toronto/events/295874402/](https://www.meetup.com/gta-php-user-group-toronto/events/295874402/)
 
 ##
 Microsoft Reactor event page: [https://developer.microsoft.com/en-us/reactor/events/20859/](https://developer.microsoft.com/en-us/reactor/events/20859/)
